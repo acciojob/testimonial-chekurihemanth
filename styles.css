@@ -8,11 +8,9 @@ div{
 }
 
 testimonial{
-	page: 0px;
+	padding: 0px;
 	background-color: white;
 }
-
-
 
 author{
 	text-align: right;
